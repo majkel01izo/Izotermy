@@ -1,0 +1,26 @@
+Miasto
+Firma_Dealer
+Handlowiec
+Przygotowanie oferty
+Nr oferty
+
+
+string[] Lista_pozycji = 
+        {
+            "Miasto",
+            "Firma/Dealer",
+            "Handlowiec",
+            "Przygotowanie_oferty",
+            "Nr_oferty",
+            "Data_wys³ania",
+            "Data_wp³yniêcia_zamówienia",
+            "Nr_zamówienia_Mercedes",
+            "Nr_zamówienia",
+            "Nr_zlecenia_produkcyjnego",
+            "Marka",
+            "Model",
+            "Kabina",
+            "Ko³a_tylne",
+            "Rozstaw_osi",
+            
+        };

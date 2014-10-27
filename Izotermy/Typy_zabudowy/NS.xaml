@@ -1,0 +1,53 @@
+﻿<UserControl x:Class="Izotermy.Typy_zabudowy.NS"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="403" d:DesignWidth="785">
+    <Grid>
+        <Grid x:Name="Opis_NS" HorizontalAlignment="Left" Height="413" Margin="0,-10,0,0" VerticalAlignment="Top" Width="785">
+            <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="403" Stroke="Black" VerticalAlignment="Top" Width="785" Margin="0,10,0,0"/>
+            <Grid x:Name="NS_rodzaje_plandek" HorizontalAlignment="Left" Height="148" Margin="10,47,0,0" VerticalAlignment="Top" Width="372">
+                <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="148" Stroke="Black" VerticalAlignment="Top" Width="372"/>
+                <CheckBox x:Name="NS_plnadeka_na_rolce" Content="Plandeka na rolce" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+                <CheckBox x:Name="NS_stelaz_z_plandeka" Content="Stelaż z plandeką do wysokości kabiny" HorizontalAlignment="Left" Margin="10,46,0,0" VerticalAlignment="Top"/>
+                <CheckBox x:Name="NS_nadstawki_siatkowe" Content="Nadstawki siatkowe do wysokości kabiny" HorizontalAlignment="Left" Margin="10,84,0,0" VerticalAlignment="Top"/>
+                <CheckBox x:Name="NS_plandeka_do_nadstawek_siatkowych" Content="Plandeka do nadstawek montowana na gumkach" HorizontalAlignment="Left" Margin="10,122,0,0" VerticalAlignment="Top"/>
+            </Grid>
+            <Label Content="Opis zabudowy" HorizontalAlignment="Left" Margin="342,16,0,0" VerticalAlignment="Top" Width="100" RenderTransformOrigin="0.755,0.365"/>
+            <Grid x:Name="NS_konstrukcja" HorizontalAlignment="Left" Height="203" Margin="10,200,0,0" VerticalAlignment="Top" Width="372">
+                <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="203" Stroke="Black" VerticalAlignment="Top" Width="372"/>
+                <CheckBox x:Name="NS_podloga_wzmacniana" Content="Wzmocnienie podłogi dodatkowymi poprzeczkami" HorizontalAlignment="Left" Margin="10,47,0,0" VerticalAlignment="Top"/>
+                <CheckBox x:Name="NS_burty_600" Content="Burty i słupki środkowe 600" HorizontalAlignment="Left" Margin="10,89,0,0" VerticalAlignment="Top"/>
+                <Label x:Name="NS_uchwyty_podlogowe" Content="Dodatkowe uchwyty podłogowe w obrzeżu (szt.)" HorizontalAlignment="Left" Margin="10,131,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.618,1.558"/>
+                <TextBox HorizontalAlignment="Left" Height="23" Margin="281,131,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="81"/>
+                <Label x:Name="NS_uchwyty_miseczkowe" Content="Uchwyt podłogowy miseczkowy (szt.)" HorizontalAlignment="Left" Margin="10,162,0,0" VerticalAlignment="Top"/>
+                <TextBox HorizontalAlignment="Left" Height="23" Margin="281,162,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="81"/>
+                <CheckBox x:Name="NS_webasto" Content="Ogrzewanie postojowe Webasto" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+            </Grid>
+            <Grid x:Name="NS_wyposarzenie_dodatkowe" HorizontalAlignment="Left" Height="148" Margin="387,47,0,0" VerticalAlignment="Top" Width="388">
+                <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="148" Stroke="Black" VerticalAlignment="Top" Width="388"/>
+                <CheckBox x:Name="NS_zbiornik_na_wode" Content="Zbiornik na wodę" HorizontalAlignment="Left" Margin="10,70,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.683,-1.781"/>
+                <Label Content="Poduszki powietrzne:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+                <CheckBox x:Name="NS_poduszki_z_manometrem" Content="Z manometrem" HorizontalAlignment="Left" Margin="134,15,0,0" VerticalAlignment="Top"/>
+                <CheckBox x:Name="NS_zbiornik_na_paliwo" Content="Zbiornik na paliwo 160l" HorizontalAlignment="Left" Margin="10,91,0,0" VerticalAlignment="Top"/>
+                <CheckBox x:Name="NS_poduszki_z_manometrem_i_kompresorem" Content="Z kompresorem i manometrem" HorizontalAlignment="Left" Margin="134,36,0,0" VerticalAlignment="Top"/>
+                <Label Content="Skrzynka narzędziowa (szt.)" HorizontalAlignment="Left" Margin="10,112,0,0" VerticalAlignment="Top"/>
+                <ComboBox x:Name="NS_skrzynka_narzedziowa" HorizontalAlignment="Left" Margin="169,116,0,0" VerticalAlignment="Top" Width="177"/>
+                <TextBox x:Name="NS_skrzynka_narzedziowa_ilosc" HorizontalAlignment="Left" Height="23" Margin="351,115,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="27"/>
+            </Grid>
+            <Grid x:Name="NS_opis_dodatkowy" HorizontalAlignment="Left" Height="203" Margin="387,200,0,0" VerticalAlignment="Top" Width="388">
+                <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="203" Stroke="Black" VerticalAlignment="Top" Width="388"/>
+                <RichTextBox x:Name="NS_opis_dodatkowy1" HorizontalAlignment="Left" Height="183" Margin="10,10,0,0" VerticalAlignment="Top" Width="368" VerticalScrollBarVisibility="Auto">
+                    <FlowDocument>
+                        <Paragraph>
+                            <Run Text="Opis dodatkowy"/>
+                        </Paragraph>
+                    </FlowDocument>
+                </RichTextBox>
+            </Grid>
+        </Grid>
+
+    </Grid>
+</UserControl>

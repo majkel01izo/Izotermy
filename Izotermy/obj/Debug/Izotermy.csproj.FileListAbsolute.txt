@@ -1,0 +1,95 @@
+c:\users\majkel\documents\visual studio 2013\Projects\Izotermy\Izotermy\bin\Debug\Izotermy.exe.config
+c:\users\majkel\documents\visual studio 2013\Projects\Izotermy\Izotermy\obj\Debug\Izotermy.csprojResolveAssemblyReference.cache
+c:\users\majkel\documents\visual studio 2013\Projects\Izotermy\Izotermy\obj\Debug\MainWindow.baml
+c:\users\majkel\documents\visual studio 2013\Projects\Izotermy\Izotermy\obj\Debug\MainWindow.g.cs
+c:\users\majkel\documents\visual studio 2013\Projects\Izotermy\Izotermy\obj\Debug\App.g.cs
+c:\users\majkel\documents\visual studio 2013\Projects\Izotermy\Izotermy\obj\Debug\Izotermy_MarkupCompile.cache
+c:\users\majkel\documents\visual studio 2013\Projects\Izotermy\Izotermy\obj\Debug\Izotermy.g.resources
+c:\users\majkel\documents\visual studio 2013\Projects\Izotermy\Izotermy\obj\Debug\Izotermy.Properties.Resources.resources
+c:\users\majkel\documents\visual studio 2013\Projects\Izotermy\Izotermy\obj\Debug\Izotermy.csproj.GenerateResource.Cache
+c:\users\majkel\documents\visual studio 2013\Projects\Izotermy\Izotermy\bin\Debug\Izotermy.exe
+c:\users\majkel\documents\visual studio 2013\Projects\Izotermy\Izotermy\bin\Debug\Izotermy.pdb
+c:\users\majkel\documents\visual studio 2013\Projects\Izotermy\Izotermy\obj\Debug\Izotermy.exe
+c:\users\majkel\documents\visual studio 2013\Projects\Izotermy\Izotermy\obj\Debug\Izotermy.pdb
+C:\Users\Majkel\Dropbox\IZOTERMY\Izotermy\Izotermy\bin\Debug\Izotermy.exe.config
+C:\Users\Majkel\Dropbox\IZOTERMY\Izotermy\Izotermy\obj\Debug\Izotermy.exe
+C:\Users\Majkel\Dropbox\IZOTERMY\Izotermy\Izotermy\obj\Debug\Izotermy.csprojResolveAssemblyReference.cache
+C:\Users\Majkel\Dropbox\IZOTERMY\Izotermy\Izotermy\obj\Debug\MainWindow.baml
+C:\Users\Majkel\Dropbox\IZOTERMY\Izotermy\Izotermy\obj\Debug\MainWindow.g.cs
+C:\Users\Majkel\Dropbox\IZOTERMY\Izotermy\Izotermy\obj\Debug\App.g.cs
+C:\Users\Majkel\Dropbox\IZOTERMY\Izotermy\Izotermy\obj\Debug\Izotermy_MarkupCompile.cache
+C:\Users\Majkel\Dropbox\IZOTERMY\Izotermy\Izotermy\obj\Debug\Izotermy.g.resources
+C:\Users\Majkel\Dropbox\IZOTERMY\Izotermy\Izotermy\obj\Debug\Izotermy.Properties.Resources.resources
+C:\Users\Majkel\Dropbox\IZOTERMY\Izotermy\Izotermy\obj\Debug\Izotermy.csproj.GenerateResource.Cache
+C:\Users\Majkel\Dropbox\IZOTERMY\Izotermy\Izotermy\bin\Debug\Izotermy.exe
+C:\Users\Majkel\Dropbox\IZOTERMY\Izotermy\Izotermy\bin\Debug\Izotermy.pdb
+C:\Users\Majkel\Dropbox\IZOTERMY\Izotermy\Izotermy\obj\Debug\Izotermy.pdb
+C:\Users\Majkel\Dropbox\IZOTERMY\Izotermy\Izotermy\obj\Debug\Typy_zabudowy\NSP.baml
+C:\Users\Majkel\Dropbox\IZOTERMY\Izotermy\Izotermy\obj\Debug\Typy_zabudowy\NSP.g.cs
+C:\Users\Majkel\Documents\backUp\IZOTERMY\Izotermy\Izotermy\bin\Debug\Izotermy.exe.config
+C:\Users\Majkel\Documents\backUp\IZOTERMY\Izotermy\Izotermy\obj\Debug\Izotermy.exe
+C:\Users\Majkel\Documents\backUp\IZOTERMY\Izotermy\Izotermy\obj\Debug\Izotermy.pdb
+C:\Users\Majkel\Documents\backUp\IZOTERMY\Izotermy\Izotermy\obj\Debug\Izotermy.csprojResolveAssemblyReference.cache
+C:\Users\Majkel\Documents\backUp\IZOTERMY\Izotermy\Izotermy\obj\Debug\MainWindow.g.cs
+C:\Users\Majkel\Documents\backUp\IZOTERMY\Izotermy\Izotermy\obj\Debug\App.g.cs
+C:\Users\Majkel\Documents\backUp\IZOTERMY\Izotermy\Izotermy\obj\Debug\Izotermy_MarkupCompile.cache
+C:\Users\Majkel\Documents\backUp\IZOTERMY\Izotermy\Izotermy\obj\Debug\Izotermy_MarkupCompile.lref
+C:\Users\Majkel\Documents\backUp\IZOTERMY\Izotermy\Izotermy\bin\Debug\Izotermy.exe
+C:\Users\Majkel\Documents\backUp\IZOTERMY\Izotermy\Izotermy\bin\Debug\Izotermy.pdb
+C:\Users\Majkel\Documents\backUp\IZOTERMY\Izotermy\Izotermy\obj\Debug\MainWindow.baml
+C:\Users\Majkel\Documents\backUp\IZOTERMY\Izotermy\Izotermy\obj\Debug\Izotermy.g.resources
+C:\Users\Majkel\Documents\backUp\IZOTERMY\Izotermy\Izotermy\obj\Debug\Izotermy.Properties.Resources.resources
+C:\Users\Majkel\Documents\backUp\IZOTERMY\Izotermy\Izotermy\obj\Debug\Izotermy.csproj.GenerateResource.Cache
+C:\Users\Majkel\Documents\backUp\IZOTERMY\Izotermy\Izotermy\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Majkel\Documents\backUp\IZOTERMY\Izotermy\Izotermy\obj\Debug\Typy_zabudowy\NS.baml
+C:\Users\Majkel\Documents\backUp\IZOTERMY\Izotermy\Izotermy\obj\Debug\Typy_zabudowy\NS.g.cs
+C:\Users\Majkel\Documents\backUp\IZOTERMY\Izotermy\Izotermy\obj\Debug\Typy_zabudowy\NCH.baml
+C:\Users\Majkel\Documents\backUp\IZOTERMY\Izotermy\Izotermy\obj\Debug\Typy_zabudowy\NI.baml
+C:\Users\Majkel\Documents\backUp\IZOTERMY\Izotermy\Izotermy\obj\Debug\Typy_zabudowy\NK.baml
+C:\Users\Majkel\Documents\backUp\IZOTERMY\Izotermy\Izotermy\obj\Debug\Typy_zabudowy\NKP.baml
+C:\Users\Majkel\Documents\backUp\IZOTERMY\Izotermy\Izotermy\obj\Debug\Typy_zabudowy\NW.baml
+C:\Users\Majkel\Documents\backUp\IZOTERMY\Izotermy\Izotermy\obj\Debug\Typy_zabudowy\NCH.g.cs
+C:\Users\Majkel\Documents\backUp\IZOTERMY\Izotermy\Izotermy\obj\Debug\Typy_zabudowy\NI.g.cs
+C:\Users\Majkel\Documents\backUp\IZOTERMY\Izotermy\Izotermy\obj\Debug\Typy_zabudowy\NK.g.cs
+C:\Users\Majkel\Documents\backUp\IZOTERMY\Izotermy\Izotermy\obj\Debug\Typy_zabudowy\NKP.g.cs
+C:\Users\Majkel\Documents\backUp\IZOTERMY\Izotermy\Izotermy\obj\Debug\Typy_zabudowy\NW.g.cs
+C:\Users\Majkel\Documents\backUp\IZOTERMY\Izotermy\Izotermy\obj\Debug\Typy_zabudowy\NSP.baml
+C:\Users\Majkel\Documents\backUp\IZOTERMY\Izotermy\Izotermy\obj\Debug\Typy_zabudowy\NSP.g.cs
+C:\Users\Majkel\Documents\backUp\IZOTERMY\Izotermy\Izotermy\bin\Debug\itextsharp.dll
+C:\Users\Majkel\Documents\backUp\IZOTERMY\Izotermy\Izotermy\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Majkel\Documents\backUp\IZOTERMY\Izotermy\Izotermy\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Majkel\Documents\backUp\IZOTERMY\Izotermy\Izotermy\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Majkel\Documents\backUp\IZOTERMY\Izotermy\Izotermy\bin\Debug\itextsharp.xml
+C:\Users\Izotermy_konstrukcja\Desktop\program\backUp\IZOTERMY\Izotermy\Izotermy\bin\Debug\Izotermy.exe.config
+C:\Users\Izotermy_konstrukcja\Desktop\program\backUp\IZOTERMY\Izotermy\Izotermy\obj\Debug\Izotermy.exe
+C:\Users\Izotermy_konstrukcja\Desktop\program\backUp\IZOTERMY\Izotermy\Izotermy\obj\Debug\Izotermy.csprojResolveAssemblyReference.cache
+C:\Users\Izotermy_konstrukcja\Desktop\program\backUp\IZOTERMY\Izotermy\Izotermy\obj\Debug\Typy_zabudowy\NCH.baml
+C:\Users\Izotermy_konstrukcja\Desktop\program\backUp\IZOTERMY\Izotermy\Izotermy\obj\Debug\Typy_zabudowy\NI.baml
+C:\Users\Izotermy_konstrukcja\Desktop\program\backUp\IZOTERMY\Izotermy\Izotermy\obj\Debug\Typy_zabudowy\NK.baml
+C:\Users\Izotermy_konstrukcja\Desktop\program\backUp\IZOTERMY\Izotermy\Izotermy\obj\Debug\Typy_zabudowy\NKP.baml
+C:\Users\Izotermy_konstrukcja\Desktop\program\backUp\IZOTERMY\Izotermy\Izotermy\obj\Debug\Typy_zabudowy\NS.baml
+C:\Users\Izotermy_konstrukcja\Desktop\program\backUp\IZOTERMY\Izotermy\Izotermy\obj\Debug\Typy_zabudowy\NSP.baml
+C:\Users\Izotermy_konstrukcja\Desktop\program\backUp\IZOTERMY\Izotermy\Izotermy\obj\Debug\Typy_zabudowy\NW.baml
+C:\Users\Izotermy_konstrukcja\Desktop\program\backUp\IZOTERMY\Izotermy\Izotermy\obj\Debug\MainWindow.g.cs
+C:\Users\Izotermy_konstrukcja\Desktop\program\backUp\IZOTERMY\Izotermy\Izotermy\obj\Debug\Typy_zabudowy\NCH.g.cs
+C:\Users\Izotermy_konstrukcja\Desktop\program\backUp\IZOTERMY\Izotermy\Izotermy\obj\Debug\Typy_zabudowy\NI.g.cs
+C:\Users\Izotermy_konstrukcja\Desktop\program\backUp\IZOTERMY\Izotermy\Izotermy\obj\Debug\Typy_zabudowy\NK.g.cs
+C:\Users\Izotermy_konstrukcja\Desktop\program\backUp\IZOTERMY\Izotermy\Izotermy\obj\Debug\Typy_zabudowy\NKP.g.cs
+C:\Users\Izotermy_konstrukcja\Desktop\program\backUp\IZOTERMY\Izotermy\Izotermy\obj\Debug\Typy_zabudowy\NS.g.cs
+C:\Users\Izotermy_konstrukcja\Desktop\program\backUp\IZOTERMY\Izotermy\Izotermy\obj\Debug\Typy_zabudowy\NSP.g.cs
+C:\Users\Izotermy_konstrukcja\Desktop\program\backUp\IZOTERMY\Izotermy\Izotermy\obj\Debug\Typy_zabudowy\NW.g.cs
+C:\Users\Izotermy_konstrukcja\Desktop\program\backUp\IZOTERMY\Izotermy\Izotermy\obj\Debug\App.g.cs
+C:\Users\Izotermy_konstrukcja\Desktop\program\backUp\IZOTERMY\Izotermy\Izotermy\obj\Debug\Izotermy_MarkupCompile.cache
+C:\Users\Izotermy_konstrukcja\Desktop\program\backUp\IZOTERMY\Izotermy\Izotermy\obj\Debug\Izotermy_MarkupCompile.lref
+C:\Users\Izotermy_konstrukcja\Desktop\program\backUp\IZOTERMY\Izotermy\Izotermy\bin\Debug\Izotermy.exe
+C:\Users\Izotermy_konstrukcja\Desktop\program\backUp\IZOTERMY\Izotermy\Izotermy\bin\Debug\Izotermy.pdb
+C:\Users\Izotermy_konstrukcja\Desktop\program\backUp\IZOTERMY\Izotermy\Izotermy\bin\Debug\itextsharp.dll
+C:\Users\Izotermy_konstrukcja\Desktop\program\backUp\IZOTERMY\Izotermy\Izotermy\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Izotermy_konstrukcja\Desktop\program\backUp\IZOTERMY\Izotermy\Izotermy\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Izotermy_konstrukcja\Desktop\program\backUp\IZOTERMY\Izotermy\Izotermy\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Izotermy_konstrukcja\Desktop\program\backUp\IZOTERMY\Izotermy\Izotermy\bin\Debug\itextsharp.xml
+C:\Users\Izotermy_konstrukcja\Desktop\program\backUp\IZOTERMY\Izotermy\Izotermy\obj\Debug\MainWindow.baml
+C:\Users\Izotermy_konstrukcja\Desktop\program\backUp\IZOTERMY\Izotermy\Izotermy\obj\Debug\Izotermy.g.resources
+C:\Users\Izotermy_konstrukcja\Desktop\program\backUp\IZOTERMY\Izotermy\Izotermy\obj\Debug\Izotermy.Properties.Resources.resources
+C:\Users\Izotermy_konstrukcja\Desktop\program\backUp\IZOTERMY\Izotermy\Izotermy\obj\Debug\Izotermy.csproj.GenerateResource.Cache
+C:\Users\Izotermy_konstrukcja\Desktop\program\backUp\IZOTERMY\Izotermy\Izotermy\obj\Debug\Izotermy.pdb
